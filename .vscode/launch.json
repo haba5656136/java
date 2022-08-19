@@ -1,0 +1,119 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch heapSort",
+            "request": "launch",
+            "mainClass": "heapSort",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortMerge",
+            "request": "launch",
+            "mainClass": "sortMerge",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueensProblem",
+            "request": "launch",
+            "mainClass": "QueensProblem",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex8",
+            "request": "launch",
+            "mainClass": "ex8",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch hanoy",
+            "request": "launch",
+            "mainClass": "hanoy",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex7",
+            "request": "launch",
+            "mainClass": "ex7",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountChar",
+            "request": "launch",
+            "mainClass": "CountChar",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch aaabbc",
+            "request": "launch",
+            "mainClass": "aaabbc",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDuplicate",
+            "request": "launch",
+            "mainClass": "countDuplicate",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSTR",
+            "request": "launch",
+            "mainClass": "countSTR",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex3",
+            "request": "launch",
+            "mainClass": "ex3",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex5",
+            "request": "launch",
+            "mainClass": "ex5",
+            "projectName": "java_5e89ae3e"
+        },
+        {
+            "type": "java",
+            "name": "Launch polindrom",
+            "request": "launch",
+            "mainClass": "polindrom",
+            "projectName": "java_5e89ae3e"
+        }
+    ]
+}
